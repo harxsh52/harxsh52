@@ -7,11 +7,10 @@
 
 <h3 align="center">🚀 Full Stack Developer |</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Continuous+Learner;Innovation+Driven&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Innovation+Driven;Continuous+Learner&center=true&width=500&height=50">
 </p>
 
 <p align="center">I'm passionate about building  web applications . My expertise lies in the Adapting in this evolving World</p>
-<br/>
 <br/>
 
 <p align="center"><img align="center" alt="GIF" src="https://i.gifer.com/J4o.gif" width="360px"/></p>
