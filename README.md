@@ -12,12 +12,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Innovation+Driven;Continuous+Learner&center=true&width=500&height=50">
 </p>
 
-<p align="center">I'm passionate about building  web applications . My expertise lies in the Adapting in this evolving World</p>
+<p align="center">I'm passionate about building  web applications . My expertise lies in the Adapting in this evolving World
+</p>
 <br/>
+
 
 <p align="center"><img align="center" alt="GIF" src="https://i.gifer.com/J4o.gif" width="360px"/></p>
   
-  
+ 
 <p align="center">### 👀 Less About Me:</p>
 <p align="center"><a href="https://github.com/harxsh52?tab=repositories"><img src="https://img.shields.io/badge/PROJECT-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
   <a href="www.linkedin.com/in/harsh-shukla-127a03339"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn" /></a>
@@ -42,6 +44,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
+ ## 🚀 About Me<br>
+- 🎓 **Engineering Student at VIT Bhopal**<br>
+- 🔥 **Passionate about Web Development (MERN), Java** <br>
+- 🌍 **EV Club ** Core Technical Team**<br>
+- 📜 **Certified in NPTEL (Elite + Silver, 75%)** <br>
+- 💻 **LeetCode&GeeksforGeek 100 Days of Java**<br>
 <br>
 ## 🔝 My Github Stats
 <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
