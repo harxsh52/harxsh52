@@ -5,7 +5,7 @@
   <a href="https://www.geeksforgeeks.org/user/harxsh52/"><img src="https://img.shields.io/badge/GeeksForGeeks-06402B?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeekForGeek" /></a>
 </p>
 <p align="center">
-<a href="https://drive.google.com/file/d/1YH3z96haXhODPMfVoJoKoi5vpq9UpaC5/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=resume&logoColor=white" alt="Resume" /></a>
+<a href="https://drive.google.com/file/d/1YH3z96haXhODPMfVoJoKoi5vpq9UpaC5/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-#0000FF?style=for-the-badge&logo=resume&logoColor=white" alt="Resume" /></a>
 </p>
 <h3 align="center">🚀 Full Stack Developer |</h3>
 <p align="center">
