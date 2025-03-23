@@ -4,8 +4,9 @@
   <a href="www.linkedin.com/in/harsh-shukla-127a03339"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn" /></a>
   <a href="https://www.geeksforgeeks.org/user/harxsh52/"><img src="https://img.shields.io/badge/GeeksForGeeks-06402B?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeekForGeek" /></a>
 </p>
-<a href="https://drive.google.com/file/d/1YH3z96haXhODPMfVoJoKoi5vpq9UpaC5/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Resume" /></a>
-
+<p align="center">
+<a href="https://drive.google.com/file/d/1YH3z96haXhODPMfVoJoKoi5vpq9UpaC5/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=resume&logoColor=white" alt="Resume" /></a>
+</p>
 <h3 align="center">🚀 Full Stack Developer |</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Innovation+Driven;Continuous+Learner&center=true&width=500&height=50">
