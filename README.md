@@ -1,4 +1,4 @@
-<h1 align="center">## Hey OWL🦉!</h1>
+<h1 align="center">## Hey 🦉!</h1>
 <p align="center">
   <a href="mailto:harsh20create@gmail.com"><img src="https://img.shields.io/badge/Email-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="www.linkedin.com/in/harsh-shukla-127a03339"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn" /></a>
