@@ -2,7 +2,7 @@
 <p align="center">
   <a href="mailto:harsh20create@gmail.com"><img src="https://img.shields.io/badge/Email-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="www.linkedin.com/in/harsh-shukla-127a03339"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn" /></a>
-  <a href="https://www.geeksforgeeks.org/user/harxsh52/"><img src="https://img.shields.io/badge/GeeksForGeeks-06402B?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeekForGeek" /></a>
+  <a href="https://leetcode.com/u/_harxsh/"><img src="https://img.shields.io/badge/LeetCode-06402B?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="LeetCode" /></a>
 </p>
 <p align="center">
 <a href="https://drive.google.com/file/d/1YH3z96haXhODPMfVoJoKoi5vpq9UpaC5/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0000FF?style=for-the-badge&logo=resume&logoColor=white" alt="Resume" /></a>
