@@ -5,7 +5,7 @@
   <a href="https://leetcode.com/u/_harxsh/"><img src="https://img.shields.io/badge/LeetCode-06402B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 <p align="center">
-<a href="https://drive.google.com/file/d/1YH3z96haXhODPMfVoJoKoi5vpq9UpaC5/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0000FF?style=for-the-badge&logo=resume&logoColor=white" alt="Resume" /></a>
+<a href="https://drive.google.com/file/d/1r5o1avn68QJQBvTxEDRxsrWS13EHSejq/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0000FF?style=for-the-badge&logo=resume&logoColor=white" alt="Resume" /></a>
 </p>
 <h3 align="center">🚀 Full Stack Developer |</h3>
 <p align="center">
